@@ -15,12 +15,12 @@ Pick one of 50 datasets and use PySpark to perform the ETL process to extract th
 
 ## Results of Analyis
   - How many Vine reviews and non-Vine reviews were there?
-   - ### Total Number of Reviews:
-   - ![total number of reviews](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis/blob/main/Resources/Total%20number%20of%20reviews.png)
-   - ### Total Number of Vine Reviews:
-   - ![total number of vine reviews](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis/blob/main/Resources/total%20number%20of%20vine%20reviews.png)
-   - ### Total Number of Non-Vine Reviews:
-   - ![total number of non-vine reviews](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis/blob/main/Resources/total%20number%20of%20reviews%2C%20non-vine.png)
+    ### Total Number of Reviews:
+    ![total number of reviews](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis/blob/main/Resources/Total%20number%20of%20reviews.png)
+    ### Total Number of Vine Reviews:
+    ![total number of vine reviews](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis/blob/main/Resources/total%20number%20of%20vine%20reviews.png)
+    ### Total Number of Non-Vine Reviews:
+    ![total number of non-vine reviews](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis/blob/main/Resources/total%20number%20of%20reviews%2C%20non-vine.png)
   
   - How many Vine reviews were 5 stars?  How many non-Vine reviews were 5 stars?
   ### Total Vine Reviews with 5 Stars:
